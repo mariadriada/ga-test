@@ -1,3 +1,3 @@
 export const sum = (a, b) => {
-  return a + b.toString();
+  return a + parseInt('b');
 };
