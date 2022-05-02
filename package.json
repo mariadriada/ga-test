@@ -1,0 +1,25 @@
+{
+  "name": "ga-test",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "githb actions tests",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariadriada/ga-test.git"
+  },
+  "keywords": [],
+  "author": "Maria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariadriada/ga-test/issues"
+  },
+  "homepage": "https://github.com/mariadriada/ga-test#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.8",
+    "jest": "^27.5.1"
+  }
+}
